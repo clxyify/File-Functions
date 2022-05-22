@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rewritten File Functions", "Rewritten File Functions\Rewritten File Functions.csproj", "{EC9DBBBA-6904-4830-A586-A7EBE4F29E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC9DBBBA-6904-4830-A586-A7EBE4F29E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9DBBBA-6904-4830-A586-A7EBE4F29E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9DBBBA-6904-4830-A586-A7EBE4F29E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9DBBBA-6904-4830-A586-A7EBE4F29E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F53F6798-1B06-433E-806E-AC15EA6A1E7E}
+	EndGlobalSection
+EndGlobal

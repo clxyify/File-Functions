@@ -1,0 +1,6 @@
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\bin\Debug\Rewritten File Functions.dll
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\bin\Debug\Rewritten File Functions.pdb
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\obj\Debug\Rewritten File Functions.csproj.AssemblyReference.cache
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\obj\Debug\Rewritten File Functions.csproj.CoreCompileInputs.cache
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\obj\Debug\Rewritten File Functions.dll
+C:\Users\avtar\source\repos\Rewritten File Functions\Rewritten File Functions\obj\Debug\Rewritten File Functions.pdb
