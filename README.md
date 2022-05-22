@@ -1,6 +1,6 @@
 # File-Functions
 
-Recreated every single **File Function** for your shitty custom exploit DLL.
+Recreated every single **File Function** without the usage of Lua C functions.
 
 # List-of-Functions:
 
