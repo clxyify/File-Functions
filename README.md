@@ -17,3 +17,8 @@ TODO: Figure out a way to split this into your script's enviroment execution.
 - listfiles
 - isfolder
 - createfile (custom function)
+
+# Requirements:
+
+- Working Exploit API
+- Registeration Enviroment System
