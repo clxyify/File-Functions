@@ -2,7 +2,7 @@
 
 Recreated every single **File Function** without the usage of Lua C functions.
 
-TODO: Figure out a way to split this into your script's enviroment execution.
+TODO: 'throwerror' - replace with API execution function and throw error.
 
 # List-of-Functions:
 
