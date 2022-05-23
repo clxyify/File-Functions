@@ -12,8 +12,8 @@ TODO: 'throwerror' - replace with API execution function and throw error.
 - delfolder
 - delfile
 - isfile
-- appendfile
-- loadfile
+- appendfile (didnt make cuz skid)
+- loadfile (didnt make cuz skid)
 - listfiles
 - isfolder
 - createfile (custom function)
